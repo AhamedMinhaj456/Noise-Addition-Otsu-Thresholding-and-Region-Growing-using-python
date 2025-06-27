@@ -1,4 +1,4 @@
-# 🧠 Image Processing Assignment
+# EC7212 – Computer Vision and Image Processing - Take Home 02
 
 This repository contains Python implementations of:
 
