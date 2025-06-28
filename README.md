@@ -30,7 +30,7 @@ pip install numpy opencv-python matplotlib
 
 ## ▶️ How to Run
 
-1. **Place your input image** in the project folder and name it `input.png`.
+1. **Place your input image** in the project folder and name it `original_image.png`.
 2. **Run the script** in a terminal or IDE:
 
 ```bash
